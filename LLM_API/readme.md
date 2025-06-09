@@ -1,4 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+<img src="https://github.com/Sanjei2002/T100XInterop/blob/main/LLM_API/Asserts/SupremeLogo.png" class="logo" width="120"/>
 
 # API Documentation
 
@@ -81,5 +81,5 @@ Yes, 4 is an even number.
 
 ---
 
-For further assistance, please contact the API support team.
+For further assistance, please contact s.sanjeipranav@gmail.com.
 
